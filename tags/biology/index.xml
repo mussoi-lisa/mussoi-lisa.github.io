@@ -13,11 +13,20 @@
     
     
     <item>
-      <title>My project</title>
+      <title>Histology</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
+      <description>Here I describe my project using Markdown formatting...</description>
+    </item>
+    
+    <item>
+      <title>Histology</title>
+      <link>/project/example-project.utf8/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/example-project.utf8/</guid>
       <description>Here I describe my project using Markdown formatting...</description>
     </item>
     

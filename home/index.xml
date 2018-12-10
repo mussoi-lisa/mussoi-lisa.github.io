@@ -18,7 +18,7 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>Lisa Mussoi A short description of myself here (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+      <description>Lisa Mussoi  18, student in Biology  (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 28 Nov 2017 18:23:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>About Me I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]</description>
+      <description>About Me I am student at the University of Mons, Belgium...I&#39;m studying Biology. I studed science during my secondary school at Charleroi.</description>
     </item>
     
     <item>

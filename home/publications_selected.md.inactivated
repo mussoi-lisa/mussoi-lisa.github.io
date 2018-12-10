@@ -10,7 +10,7 @@ title = "Selected Publications"
 subtitle = "[Full list of publications (UMONS)](http://staff.umons.ac.be/lisa.mussoi/pubsEn.html)"
 
 # Order that this section will appear in.
-weight = 10
+weight = 30
 
 # List format.
 #   0 = Simple

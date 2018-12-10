@@ -24,20 +24,17 @@ urlcolor: blue
 
 *Université de Mons*, Bachelier en Biologie \hfill 2020
 
-*Ecole secondaire*, orientation \hfill 2017
+*Institut Saint-André*, orientation \hfill 2017
 
 
 # EMPLOIS
 
-*Job étudiant:*
+*Job étudiant: Service en salle à l'hotel airport Gosselies*
 
- > Activité réalisée \hfill 2017--2018
+# Activité réalisée \hfill 2017--2018
 
 *Autre emploi:*
 
- > Rôle 2 \hfill 2016--2018
- 
- > Rôle 1 \hfill 2015
 
 
 # PUBLICATIONS

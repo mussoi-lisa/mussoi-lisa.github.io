@@ -11,11 +11,21 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My project</title>
+      <title>Histology</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
+      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Histology</title>
+      <link>/project/example-project.utf8/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/example-project.utf8/</guid>
       <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
 </description>
     </item>
@@ -36,13 +46,11 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/post/getting-started/</guid>
-      <description>
+      <description>&lt;p&gt;Le contenu ici&lt;/p&gt;
 
-&lt;p&gt;Le contenu ici&lt;/p&gt;
+&lt;p&gt;Lisa Mussoi&lt;/p&gt;
 
-&lt;h2 id=&#34;un-titre&#34;&gt;Un titre&lt;/h2&gt;
-
-&lt;p&gt;Du texte &lt;strong&gt;avec une partie en gras&lt;/strong&gt;...&lt;/p&gt;
+&lt;p&gt;Du texte &lt;strong&gt;...&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
